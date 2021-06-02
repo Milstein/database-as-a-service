@@ -49,7 +49,7 @@ redis==2.10.3
 simple-db-migrate==1.5.3
 six==1.4.1
 sphinx-me==0.2.1
-urllib3==1.7.1
+urllib3==1.26.5
 wsgiref==0.1.2
 dbaas_cloudstack==0.5.7
 dbaas_credentials==1.0.4
